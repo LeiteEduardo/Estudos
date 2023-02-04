@@ -52,6 +52,16 @@ São blocos que permitem organizar e construir páginas web. Alguns dos elemento
   - **hidden** : utlizado em um ``` <input> ``` para oculta-lo;
   - **month** : utlizado em um ``` <input> ``` para que o usuário selecione um mês do ano. Dependendo do suporte do navegador, um seletor de data pode aparecer no campo de entrada;
   - **number** : utlizado em um ``` <input> ``` para que o usuário insira apenas valores numéricos;
+  - **range** : utlizado em um ``` <input> ``` transformará em um seletor deslizante;
 
-##### Restrições de ``` <input> ```.
-Em seguida veremos uma lista de algumas das restriçoes de ``` <input> ```:
+##### Atributos de ``` <input> ```.
+Em seguida veremos uma lista de alguns atributos de ``` <input> ```:
+- **checked** : utilizado o atributo em um ``` <input> ``` do tipo **radio** ou **checkbox** já carrega pré-selecionado;
+- **disabled** : utilizado o atributo em um ``` <input> ``` ele carregará desabilitado;
+- **max** : utilizado o atributo em um ``` <input> ``` irá especificar o valor máximo permitido;
+- **maxlength** : utilizado o atributo em um ``` <input> ``` irá especificar o número de caracteres permitidos;
+- **min** : utilizado o atributo em um ``` <input> ``` irá especificar o valor minímo permitido;
+- **pattern** : utilizado o atributo em um ``` <input> ``` irá validar com a expressão regular;
+- **readonly** : utilizado o atributo em um ``` <input> ``` irá carregar apenas no modo exibição, usuário não irá conseguir interagir com o ``` <input> ```;
+- **required** : utilizado o atributo em um ``` <input> ``` dentro de um ``` <form> ``` ele irá tornar obrigatório;
+- **value** : utilizado o atributo em um ``` <input> ``` irá especifícar um valor padrão;
