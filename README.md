@@ -1,6 +1,6 @@
 # 📖 Estudos 
 
-** ℹ️ Descrição:** Neste repositório será armazenado anotações e informações adquiridas em cursos, e durante todo meu aprendizado na área de desenvolvimento.
+ℹ️ **Descrição:** Neste repositório será armazenado anotações e informações adquiridas em cursos, e durante todo meu aprendizado na área de desenvolvimento.
 
 ## ✏️ Anotações
 
