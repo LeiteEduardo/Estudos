@@ -9,4 +9,5 @@
 ## 🎓 Cursos
 
 | **Curso** | **Link** |
-| teste | teste |
+|-----------|----------|
+|teste      | teste    |
