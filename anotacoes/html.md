@@ -17,7 +17,7 @@ A estrutura básica do HTML é a seguinte:
 </html>
 ```
 
-#### Elementos
+#### <> Elementos
 São blocos que permitem organizar e construir páginas web. Alguns dos elementos HTML mais utilizados são:
 
 - ``` <html> ``` : Define a raiz de um documento HTML;
