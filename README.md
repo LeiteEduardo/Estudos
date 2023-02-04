@@ -4,4 +4,4 @@
 
 ## ✏️ Anotações
 
-- [HTML] (https://www.google.com.br)
+- [HTML] (https://github.com/LeiteEduardo/Estudos/blob/main/anotacoes/html.md)
