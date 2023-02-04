@@ -4,4 +4,4 @@
 
 ## ✏️ Anotações
 
-- [HTML] (https://github.com/LeiteEduardo/Estudos/blob/main/anotacoes/html.md)
+- [HTML](https://github.com/LeiteEduardo/Estudos/blob/main/anotacoes/html.md)
