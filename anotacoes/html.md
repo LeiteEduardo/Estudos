@@ -53,5 +53,5 @@ São blocos que permitem organizar e construir páginas web. Alguns dos elemento
   - **month** : utlizado em um ``` <input> ``` para que o usuário selecione um mês do ano. Dependendo do suporte do navegador, um seletor de data pode aparecer no campo de entrada;
   - **number** : utlizado em um ``` <input> ``` para que o usuário insira apenas valores numéricos;
 
-> Restrições de ``` <input> ```.
+##### Restrições de ``` <input> ```.
 Em seguida veremos uma lista de algumas das restriçoes de ``` <input> ```:
